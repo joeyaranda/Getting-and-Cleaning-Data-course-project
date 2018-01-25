@@ -1,4 +1,4 @@
-This code book contain the summary of variables and their corresponding values
+This code book contains the summary of variables and their corresponding values.
 
 Subject - identifier of the person subjected to the analysis
 Activity - activity performed by the subject as recorded by the smartphone
