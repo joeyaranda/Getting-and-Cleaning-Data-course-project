@@ -5,7 +5,7 @@ Activity - activity performed by the subject as recorded by the smartphone
 
 Measurements
 
-    tBodyAccMeanX
+*tBodyAccMeanX
     tBodyAccMeanY
     tBodyAccMeanZ
     tBodyAccStDevevX
